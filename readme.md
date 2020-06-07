@@ -2,17 +2,18 @@
 
 ## Software Engineer Basics
 
-### Git and Github
 
-:star: ["Do What You Love" quick-guide](https://github.com/dwyl/start-here)
+  :star: ["Do What You Love" quick-guide](https://github.com/dwyl/start-here)
 - Git  
-  :star: [Git reading tutorial by tower](https://www.git-tower.com/learn/git/ebook/en/command-line/basics/why-use-version-control#start) - [x]
+  :star: [Git reading tutorial by tower](https://www.git-tower.com/learn/git/ebook/en/command-line/basics/why-use-version-control#start)
 - Markdown  
-  [markdown syntax with practice for beginners](https://www.markdowntutorial.com/)
+  - [markdown syntax with practice for beginners](https://www.markdowntutorial.com/)
+  - [markdown cheatsheet](https://gist.github.com/jonschlinkert/5854601#todo-list)
 - Open source
   - [OS with LEGO example](https://www.youtube.com/watch?v=a8fHgx9mE5U)
-  - [First Contributions(in CLI)](https://github.com/firstcontributions/first-contributions) - [ ]
-  - [First Contributions(in VScode)](https://github.com/firstcontributions/first-contributions/blob/master/github-windows-vs-code-tutorial.md)
+  
+  - [~~First Contributions(in CLI)~~](https://github.com/firstcontributions/first-contributions)
+  - [~~First Contributions(in VScode)~~](https://github.com/firstcontributions/first-contributions/blob/master/github-windows-vs-code-tutorial.md)
 - Github Repo  
   [emoji list ](https://gist.github.com/rxaviers/7360908):wink:
 
@@ -36,7 +37,7 @@
 
   - Continuous integration (CI)
     - [Definition and practices summary](https://en.wikipedia.org/wiki/Continuous_integration)
-    - [Complete explanation](https://www.martinfowler.com/articles/continuousIntegration.html)
+    - ~~[Complete explanation](https://www.martinfowler.com/articles/continuousIntegration.html)~~
 
 ### Text Editor
 
@@ -49,14 +50,16 @@
 
 - :star: [ML-based typing practice website](https://www.keybr.com/)
 
+
+---
 ## Web Development
 
 - Programming languages
   - Javascript
     - :star: [OOP in JS (1 hour)](https://www.youtube.com/watch?v=PFmuCDHHpwk)
     - [JS full course (3 hours)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-    - [JS guide in MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
-    - [JS official resources](https://www.javascript.com/resources)
+    - ~~[JS guide in MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)~~
+    - ~~[JS official resources](https://www.javascript.com/resources)~~
     - environment variable  
       [Safely handle env before pushing to github](https://github.com/dwyl/learn-environment-variables/)
 - Front-end
@@ -66,15 +69,15 @@
 - Back-end
   - Node.js  
     :star: [Node basic concept and modules (1 hour)](https://www.youtube.com/watch?v=TlB_eWDSMt4)
-  - :star: Express  
+  - Express  
     :star: [Build RESTful service with Express (1 hour)](https://www.youtube.com/watch?v=pKd0Rpw7O48)
 
 ## Other
 
 - Functional programing  
-  [Mostly adequate guide (online book)](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+  [~~Mostly adequate guide (online book)~~](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 - Ethical Hacking  
-[Full Ethical Hacking Course (18 hours)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
+[~~Full Ethical Hacking Course (18 hours)~~](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
 <!-- npm
 
 Google standard
