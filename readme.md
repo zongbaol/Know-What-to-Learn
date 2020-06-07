@@ -4,7 +4,7 @@
 
 ### Git and Github
 
-- ["Do What You Love" quick-guide](https://github.com/dwyl/start-here)
+- :star: ["Do What You Love" quick-guide](https://github.com/dwyl/start-here)
 - Git
   - [Git reading tutorial by tower](https://www.git-tower.com/learn/git/ebook/en/command-line/basics/why-use-version-control#start)
 - Markdown
