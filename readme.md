@@ -1,22 +1,72 @@
-git https://www.git-tower.com/learn/git/ebook/en/command-line/basics/why-use-version-control#start
-cli https://www.youtube.com/watch?v=xUJXy4vBAMg&list=PLII6oL6B7q78PKy6_R6JTkkYjVXZBZcVq&index=6
-TDD https://github.com/dwyl/learn-tdd
-code coverage: blanket https://github.com/alex-seville/blanket/blob/master/docs/getting_started_browser.md and istanbul  https://github.com/gotwarlost/istanbul codecov https://codecov.io/#features
-Continuous integration (CI) https://en.wikipedia.org/wiki/Continuous_integration	https://www.martinfowler.com/articles/continuousIntegration.html
-Javascript 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
-https://www.javascript.com/resources
-npm
-Functional programing https://mostly-adequate.gitbooks.io/mostly-adequate-guide/
+# Know What to Learn
+
+
+## Software Engineer Basics
+
+### Git and Github
+
+- ["Do What You Love" quick-guide](https://github.com/dwyl/start-here)
+- Git
+  - [Git reading tutorial by tower](https://www.git-tower.com/learn/git/ebook/en/command-line/basics/why-use-version-control#start)
+- Markdown
+  - [markdown syntax with practice for beginners](https://www.markdowntutorial.com/)
+- Open source
+  - [OS with LEGO example](https://www.youtube.com/watch?v=a8fHgx9mE5U)
+  - [First Contributions(in CLI)](https://github.com/firstcontributions/first-contributions )
+  - [First Contributions(in VScode)](https://github.com/firstcontributions/first-contributions/blob/master/github-windows-vs-code-tutorial.md)
+
+### Command Line Interface (CLI)
+
+- [Linux CLI basic video series](https://www.youtube.com/watch?v=xUJXy4vBAMg&list=PLII6oL6B7q78PKy6_R6JTkkYjVXZBZcVq&index=6)
+- mac root [Root user in mac](https://support.apple.com/en-us/HT204012)
+
+### Test Driven Development (TDD)
+
+- [Learn TDD in JS(using qUnit, blanket.js, istanbul, Travis CI, JSdoc)](https://github.com/dwyl/learn-tdd)
+
+  - Code Coverage
+
+    - Blanket.js [Use Blanket.js in browser](https://github.com/alex-seville/blanket/blob/master/docs/getting_started_browser.md)
+    - istanbul [istanbul - prefered code coverage tool for JS projects](https://github.com/gotwarlost/istanbul)
+    - codecov [codecov - github repository code coverage report](https://codecov.io/#features)
+
+  - Continuous integration (CI)
+    - [Definition and practices summary](https://en.wikipedia.org/wiki/Continuous_integration)
+    - [Complete explanation](https://www.martinfowler.com/articles/continuousIntegration.html)
+
+### Text Editor
+
+- VScode [VScode extentions guide](https://www.youtube.com/watch?v=rH1RTwaAeGc)
+- Atom [Atom short cuts and extensions (video series)](https://www.youtube.com/watch?v=EyG20hhON6E&index=2&list=PLYzJdSdNWNqwNWlxz7bvu-lOYR0CFWQ4I)
+
+
+### Typing
+- [ML-based typing practice website](https://www.keybr.com/)
+
+## Web Development
+
+- Programming languages
+  - Javascript
+    - [OOP in JS](https://www.youtube.com/watch?v=PFmuCDHHpwk)
+    - [JS full course (3 hours)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+    - [JS guide in MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+    - [JS official resources](https://www.javascript.com/resources)
+    - environment variable
+      - [Safely handle env before pushing to github](https://github.com/dwyl/learn-environment-variables/)
+- Front-end
+  - Angular \* Typescript
+    [Basics and OOP in Typescript](https://www.youtube.com/watch?v=NjN00cM18Z4)
+- Back-end
+  - Node.js https://www.youtube.com/watch?v=TlB_eWDSMt4
+  - Express https://www.youtube.com/watch?v=pKd0Rpw7O48
+
+## Other
+
+- Functional programing
+  [Mostly adequate guide (online book)](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+- Ethical Hacking [Full Ethical Hacking Course (18 hours)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
+<!-- npm
+
 Google standard
-Arrow function
-Environment variable	https://github.com/dwyl/learn-environment-variables/ 
-Angular https://github.com/dwyl/learn-elm#why
-Typing https://www.keybr.com/
-mac root https://support.apple.com/en-us/HT204012
-Atom https://www.youtube.com/watch?v=EyG20hhON6E&index=2&list=PLYzJdSdNWNqwNWlxz7bvu-lOYR0CFWQ4I
-Markdown https://www.markdowntutorial.com/
-Vscode https://www.youtube.com/watch?v=rH1RTwaAeGc
-Node.js  https://www.youtube.com/watch?v=TlB_eWDSMt4&t=2s
-Open source https://github.com/firstcontributions/first-contributions https://github.com/firstcontributions/first-contributions/blob/master/github-windows-vs-code-tutorial.md
-Express https://www.youtube.com/watch?v=pKd0Rpw7O48
+
+Arrow function   -->
