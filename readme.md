@@ -1,6 +1,5 @@
 # Know What to Learn
 
-
 ## Software Engineer Basics
 
 ### Git and Github
@@ -12,7 +11,7 @@
   - [markdown syntax with practice for beginners](https://www.markdowntutorial.com/)
 - Open source
   - [OS with LEGO example](https://www.youtube.com/watch?v=a8fHgx9mE5U)
-  - [First Contributions(in CLI)](https://github.com/firstcontributions/first-contributions )
+  - [First Contributions(in CLI)](https://github.com/firstcontributions/first-contributions)
   - [First Contributions(in VScode)](https://github.com/firstcontributions/first-contributions/blob/master/github-windows-vs-code-tutorial.md)
 
 ### Command Line Interface (CLI)
@@ -39,8 +38,8 @@
 - VScode [VScode extentions guide](https://www.youtube.com/watch?v=rH1RTwaAeGc)
 - Atom [Atom short cuts and extensions (video series)](https://www.youtube.com/watch?v=EyG20hhON6E&index=2&list=PLYzJdSdNWNqwNWlxz7bvu-lOYR0CFWQ4I)
 
-
 ### Typing
+
 - [ML-based typing practice website](https://www.keybr.com/)
 
 ## Web Development
@@ -54,8 +53,9 @@
     - environment variable
       - [Safely handle env before pushing to github](https://github.com/dwyl/learn-environment-variables/)
 - Front-end
-  - Angular \* Typescript
-    [Basics and OOP in Typescript](https://www.youtube.com/watch?v=NjN00cM18Z4)
+  - Angular
+    - Typescript
+      - [Basics and OOP in Typescript](https://www.youtube.com/watch?v=NjN00cM18Z4)
 - Back-end
   - Node.js https://www.youtube.com/watch?v=TlB_eWDSMt4
   - Express https://www.youtube.com/watch?v=pKd0Rpw7O48
@@ -69,4 +69,4 @@
 
 Google standard
 
-Arrow function   -->
+Arrow function -->
