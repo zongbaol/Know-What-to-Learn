@@ -6,12 +6,12 @@
 
 :star: ["Do What You Love" quick-guide](https://github.com/dwyl/start-here)
 - Git  
-  :star: [Git reading tutorial by tower](https://www.git-tower.com/learn/git/ebook/en/command-line/basics/why-use-version-control#start)
+  :star: [Git reading tutorial by tower](https://www.git-tower.com/learn/git/ebook/en/command-line/basics/why-use-version-control#start) - [x]
 - Markdown  
   [markdown syntax with practice for beginners](https://www.markdowntutorial.com/)
 - Open source
   - [OS with LEGO example](https://www.youtube.com/watch?v=a8fHgx9mE5U)
-  - [First Contributions(in CLI)](https://github.com/firstcontributions/first-contributions)
+  - [First Contributions(in CLI)](https://github.com/firstcontributions/first-contributions) - [ ]
   - [First Contributions(in VScode)](https://github.com/firstcontributions/first-contributions/blob/master/github-windows-vs-code-tutorial.md)
 - Github Repo  
   [emoji list ](https://gist.github.com/rxaviers/7360908):wink:
