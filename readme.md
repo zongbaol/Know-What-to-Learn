@@ -57,7 +57,7 @@
 - Programming languages
   - Javascript
     - :star: [OOP in JS (1 hour)](https://www.youtube.com/watch?v=PFmuCDHHpwk)
-    - [JS full course (3 hours)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+    - [ES6 in JS full course (3 hours)](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=9417s)
     - ~~[JS guide in MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)~~
     - ~~[JS official resources](https://www.javascript.com/resources)~~
     - environment variable  
@@ -65,12 +65,21 @@
 - Front-end
   - Angular
     - Typescript  
-      :star: [Basics and OOP in Typescript (1 hour)](https://www.youtube.com/watch?v=NjN00cM18Z4)
+      - :star: [Basics and OOP in Typescript (1 hour)](https://www.youtube.com/watch?v=NjN00cM18Z4)
+    - :star: [Angular and Typescript crash course (2 hours)](https://www.youtube.com/watch?v=k5E2AVpwsko)
+
 - Back-end
   - Node.js  
     :star: [Node basic concept and modules (1 hour)](https://www.youtube.com/watch?v=TlB_eWDSMt4)
   - Express  
     :star: [Build RESTful service with Express (1 hour)](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+    
+___
+## Trend
+[Frontend or Backend ?](https://www.youtube.com/watch?v=oGM4LI9Z9HE)
+:star: [Web Dev Roadmap summary (2020)](https://www.youtube.com/watch?v=iogabydg2y0)
+[Web Dev tech full list (1 hour) (2020)](https://www.youtube.com/watch?v=0pThnRneDjw)
+___
 
 ## Other
 
